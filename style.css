@@ -1,0 +1,170 @@
+.top-image img{
+    max-width: 500px;
+ }
+ .top-content h2 {
+     font-family: arial;
+     font-weight: bold;
+     text-transform: uppercase;
+ }
+ 
+ header.top-landing {
+     margin-top: 20px;
+ background: url(https://i.postimg.cc/59C0hbLF/top-bg.jpg);
+ background-position: center;}
+ 
+ .top-content p {
+     font-family: arial;
+     font-size: 14px;
+     color: white;
+     text-align: justify;
+ }
+ 
+ .top-content button {
+     background: black;
+     color: white;
+     font-family: arial;
+    margin-bottom: 33px;
+}
+.top-content button:hover{
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+}
+
+ .top-content {
+     max-width: 400px;
+     padding-top: 50px;
+ color: white;margin-left: 50px;}
+ 
+ .box {
+     text-align: center;
+     padding: 50px;
+     border-right: 2px solid white;
+     color: white;
+ }
+ .box:hover{
+     background: #000000;
+     color: white;
+     transition: 0.5s;
+ }
+ 
+ .box h4 {
+     text-transform: uppercase;
+     font-weight: bold;
+ }
+ 
+ 
+ .box p {
+     font-family: arial;
+     font-size: 15px;
+     color: white;
+ }
+ 
+ .one {
+     background: #00bcd4;
+ }
+ 
+ .two {
+     background: #00bcd4;
+ }
+ 
+ .three {
+     background: #00bcd4;
+ }
+ section.service-box {
+     margin-top: 30px;
+ }
+ .to-wrapper {
+     background: #000000ba;
+}
+.about-company {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.about-company i {
+    font-size: 40px;
+}
+
+.about-company p {
+    font-family: arial;
+    font-size: 14px;
+}
+.image-team img{
+    width: 100%;
+}
+
+.team-content {
+    background: #00bcd4;
+    color: white;
+    padding: 30px;
+}
+
+.team-content h4 {
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+.team-content p {
+    font-family: arial;
+    font-size: 14px;
+    text-align: justify;
+}
+.service-bar-wrap {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.service-bar-wrap h3 {
+    color: black;
+    font-family: arial;
+}
+.service-bar-wrap i {
+    color: white;
+    background: #00bcd4;
+    padding: 10px;
+    border-radius: 100%;
+    margin-top: 29px;
+}
+.bottom-button{
+    background-color:#00bcd4 ;
+    color: white;
+    font-family: arial;
+    border-radius: 50px;
+}
+.bottom-button:hover{
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+.working-moment{
+    background-color: white;
+    color: black;
+}
+section.Team-think {
+    margin-top: 35px;
+}
+section.enroll {
+    margin-top: 30px;
+    background: #00bcd4;
+}
+.row.enroll-wrap {
+    padding: 20px;
+    color: white;
+    font-family: arial;
+}
+
+.row.enroll-wrap p {
+    font-size: 14px;
+}
+
+.row.enroll-wrap button {
+    background: white;
+    border-radius: 50px;
+    margin-top: 27px;
+}
+.row.enroll-wrap button:hover{
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
